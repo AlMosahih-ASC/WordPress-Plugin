@@ -11,11 +11,12 @@ Enables Arabic Spell Checking in the TinyMCE editor.
 
 == Description ==
 Enables Arabic Spell Checking in the TinyMCE editor.
- - clearly explain that your plugin is relying on a 3rd party as a service and under what circumstances
- The plugin relies on our spell checking API server to check words and generate suggestions. For that a single API request is done, and the response will contain all the presumably misspelled words and their correction suggestions. The plugin also uses an API endpoint to check the validity of the API keys used for spell checking. No other info is sent or exchanged with the API.
+The plugin relies on our spell checking API server to check words and generate suggestions. For that a single API request is done, and the response will contain all the presumably misspelled words and their correction suggestions. The plugin also uses an API endpoint to check the validity of the API keys used for spell checking. No other info is sent or exchanged with the API.
 
- Service website (In Arabic only): https://arabicspellchecker.com/
- Service's Terms of use link (In Arabic only) : https://arabicspellchecker.com/terms.html
+This plugin relies on Classic Editor plugin (https://wordpress.org/plugins/classic-editor/) and must be installed before enabling this plugin.
+
+Service website (In Arabic only): https://arabicspellchecker.com/
+Service's Terms of use link (In Arabic only) : https://arabicspellchecker.com/terms.html
  
 
 == Installation ==
