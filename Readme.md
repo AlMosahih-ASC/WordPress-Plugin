@@ -19,7 +19,3 @@ Search for the plugin "wp-sarahspell" from the plugin page inside your WordPress
 1. Upload the folder (wp-sarahspell) to the plugins directory (wp-content/plugins).
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Clear your browser cache (This is important otherwise you will see the cached TinyMCE).
-
-== Changelog ==
-
-* 1.0 First release
