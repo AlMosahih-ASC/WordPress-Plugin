@@ -29,9 +29,6 @@ Search for the plugin "wp-sarahspell" from the plugin page inside your WordPress
 
 == Screenshots ==
 
-1. The post editor showing the new direction buttons.
-2. Switching to the text editor shows the added direction to the RTL line.
-3. A test post showing the correct alignment for the languages.
 
 == Changelog ==
 
